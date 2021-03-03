@@ -2,3 +2,4 @@ Add a line
 Add second line
 Add another line from the web
 add line from web - line 4
+line for conflict - line 5
